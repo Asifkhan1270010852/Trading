@@ -1,0 +1,25 @@
+## Trading Rules 
+
+1. Strong, (Support/Resistance) ha Market Trap karega 
+
+2. Week,   (Support/Resistance) ha Market Trap nahe karega
+
+3. Market, (Up-Trand/Dow-Trand) ho SL kha kr Move deta h
+
+4. Entry,  (Support, Registantion) par hi lee
+
+5. Exit,   (Support/Registran) par hi lee
+
+6. SL,     (5-7) Point... SL sa Target 3x hona chahiya
+
+7. Target, (3x,4x) hona chahiya
+
+8. Time,   (4H,1H,30M,15,5) First long time frame my market UP-Trande y Down-Trande h pata kare (4H,1H)...
+
+   Medium Time Frame pe Market my Entry Exite Plane kare (15M)....
+   Short Time Frame pe market my entry our exit lee (5M)....
+
+9. session (U.K) India Time (12:30)..Open (09:00)..Close
+
+10. Holding Trade (liquidity) market jabe v liquidity letee h tabe market hold krna chahiya
+

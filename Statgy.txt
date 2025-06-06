@@ -1,0 +1,4 @@
+1. liquidity
+2. Retest
+3. PO3
+4. Black-Box
