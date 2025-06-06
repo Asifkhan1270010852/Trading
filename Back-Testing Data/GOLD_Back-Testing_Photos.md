@@ -1,6 +1,4 @@
-## Back Testing Data Show on Pohots
-
-# 15 TF 
+## Back Testing Data Show on Pohots, 15 TF
 
 ## Day 01
 
