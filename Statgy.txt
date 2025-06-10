@@ -1,4 +1,4 @@
-1. liquidity
+1. Support/registention
 2. Retest
-3. PO3
+3. Red-Box
 4. Black-Box
