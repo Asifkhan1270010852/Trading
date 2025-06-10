@@ -3,6 +3,7 @@
 1. Break Trend Line
 2. Fake Breakout
 3. Reverse Trend
+4. Fail Break-out
 
 ## Resource 
 
