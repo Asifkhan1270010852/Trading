@@ -30,3 +30,4 @@
 
 15. Bitcoin Halving,  Bitcoin network me miners ko milne wale block reward (nayi bitcoins) ka 50% se reduce kar diya jata hai.. Simple words me: Mining se naye coins generate hote hain Har 210,000 blocks (~4 saal) me reward half ho jata hai Supply growth slow hoti hai → theoretically price pressure upward
 
+16. Regulatory Crackdowns,  Government ya regulatory bodies ka kisi sector, company, ya market par strict rules aur enforcement actions lagana.. China crypto mining aur exchanges par ban. SEC ka U.S. crypto/stock regulations enforce karna. India ka RBI crypto/finance regulations tighten karna.EU ke GDPR or fintech regulatory enforcement 
