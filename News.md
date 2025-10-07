@@ -16,4 +16,4 @@
 
 8. Industrial Production, U.S. ke industrial sector (factories, mines, electricity utilities) me total goods production pichle month ke mukable me kitna badha ya ghata. Simple words me: Ye data batata hai ki industry kitna produce kar rahi hai — agar zyada production ho raha hai → economy strong 💪 agar production gir raha hai → slowdown ka signal
 
-9. 
+9. GDP, (Gross Domestic Product).. “U.S. economy me ek specific period (usually quarter) me total goods aur services ka market value kitna produce hua.” Simple words me: GDP = Ek country ne total kitna maal aur service banaya aur kitna paisa kamaaya 💰
