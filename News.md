@@ -4,4 +4,4 @@
    
 2. PPI, (Producer Price Index) Yeh measure karta hai: Producers (manufacturers, wholesalers) ke liye goods aur services ke price change ko.. Simple words me: CPI consumer ke liye hota hai, PPI producers (ya businesses) ke liye hota hai.
 
-3. PMI 
+3. PMI (Purchasing Managers’ Index) Ye ek survey-based economic indicator hai jo measure karta hai.. manufacturing aur service sector ki health (growth ya contraction).. Simple words me: PMI batata hai ki ek desh ka business environment expand ho raha hai ya slow down.
