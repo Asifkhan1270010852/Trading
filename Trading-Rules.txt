@@ -1,16 +1,16 @@
 ## Trading Rules 
 
-1. Strong, (Support/Resistance) ha Market Trap karega 
+1. Strong, (Support/Resistance) Market Trap karega 
 
-2. Week,   (Support/Resistance) ha Market Trap nahe karega
+2. Week,   (Support/Resistance) Market Trap nahe karega
 
 3. Market, (Up-Trand/Dow-Trand) ho SL kha kr Move deta h, Market pahle liquidity jama krta h use ko grap kr k fer apna Trande Follow krta hai..
 
 4. Entry,  (Support, Registantion) par hi lee
 
-5. Exit,   (Support/Registran) par hi lee
+5. Exit,   Market ko multi time frame my useka strengths check karo ager Strong strengths nahe h to market sa exit le loo
 
-6. SL,     (5-7) Point... SL sa Target 3x hona chahiya
+6. SL,     SL sa Target 3x 4x ya 5x  hona chahiya
 
 7. Target, (3x,4x) hona chahiya
 
@@ -21,8 +21,9 @@
 
 9. session (U.K), (U.S.A), (Asia), Market different session my different behave karta hai.. Trade Session Time ka accoding Plan kare ..
 
-10. Holding Trade (liquidity) market jabe v liquidity letee h tabe market hold krna chahiya
+10. Holding Trade (strengths) market jabe v Strong strengths dekhata h tabe market hold krna chahiya
 
 11. Market Short Time Frame (5m, 15m) my liquidity jama kr k fer use Hant kr k fer Ek Boom Run deta h like GOLD 300, pips 400, pips move deta h
+
 
 
