@@ -4,7 +4,7 @@
 
 2. Week,   (Support/Resistance) ha Market Trap nahe karega
 
-3. Market, (Up-Trand/Dow-Trand) ho SL kha kr Move deta h
+3. Market, (Up-Trand/Dow-Trand) ho SL kha kr Move deta h, Market pahle liquidity jama krta h use ko grap kr k fer apna Trande Follow krta hai..
 
 4. Entry,  (Support, Registantion) par hi lee
 
@@ -24,4 +24,5 @@
 10. Holding Trade (liquidity) market jabe v liquidity letee h tabe market hold krna chahiya
 
 11. Market Short Time Frame (5m, 15m) my liquidity jama kr k fer use Hant kr k fer Ek Boom Run deta h like GOLD 300, pips 400, pips move deta h
+
 
