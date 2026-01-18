@@ -1,4 +1,4 @@
-1. Support/registention
-2. Retest
-3. Red-Box
-4. Black-Box
+1. Red-Box,
+2. Black-Box,
+3. PO3 strategy, :- Accumulation, Manipulation, Distribution (AMD)
+
