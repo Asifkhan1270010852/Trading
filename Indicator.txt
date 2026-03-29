@@ -1,0 +1,8 @@
+## INDICATOR::
+
+## Volume: Volume indicator batata hai ki market me kitni buying aur selling ho rahi hai...,
+
+## MSB&OB: MSB&OB Indicator batata hai ki Market Kon sa Trend My hai..,
+
+## EMA: EMA (Exponential Moving Average) ek powerful trend-following indicator hai jo price ke recent movement ko zyada
+        importance deta hai. Trading me iska use trend identify + entry/exit timing ke liye hota hai..,
