@@ -3,7 +3,7 @@
 1. Break the trand line 
 2. Reverse Trand 
 3. Hunt SL 
-4. Trade Break-out success
+4. Trande Break-out successfully 
 
 ## Resource 
 
