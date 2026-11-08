@@ -1,0 +1,34 @@
+1. Bias {4H, 2H, 1H}..,
+
+2. Key-Level {supply-Demand, support/resistance, AMD,}..,
+
+3. Liquidity Zone {Volume-Profile, VH.LVL.POC}..,
+
+4. Setup {Liquidity, Supply-zone Demand-Zone}..,
+
+5. Trade-Conformation {5M, 15M}..,
+
+6. supply-Demand-zone {1m}..,
+
+6. Trade Entry {1M + Re-Test}..,
+
+7. Premium-Discounts-zone {New-Support, New-resistance}.., 
+
+7. Avoid Trade {Trend-line, Internal-Breakouts}..,
+
+8. Target Trade {support/resistance, Swing-High, Swing-Low}.., 
+
+9. Buying/Shelling {Buying slow hot h, Shelling Fast Ata h}.., 
+
+10. Volume-Profile {Support, Resistance}.., 
+
+11. Hit-Map {Liquidity-zone}..,
+
+12. Footprint {Strong-Buyer, Strong-Seller}..,
+
+13. Order-Flow Software {Bookmap, Atas, Motiveuave, sierra-chart}..,
+
+14. Resource {Tradeskill, Free Heatmap, Basis, Free-Gold-Footprint}..,
+
+
+

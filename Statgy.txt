@@ -1,0 +1,4 @@
+1. Daily-Bias {Shell/Buying}..,
+2. Daily-Bias {Zone}..,
+3. Liquidity {Swing-High, Swing-Low}..,
+4. Setup {Ice-Burge, Red-box Black-Box, Bias-zone}..,
