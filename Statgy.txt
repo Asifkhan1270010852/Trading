@@ -1,0 +1,3 @@
+1. Strategy: {Liquidity, Supply Demand, Iceberg}..,
+
+2. Setup:    {Liquidity-retest, Supply-Demand. Strength, Iceberg}..,  
